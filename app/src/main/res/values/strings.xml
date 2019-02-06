@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Vale1</string>
+    <string name="parkemon" tools:ignore="DuplicateDefinition">Parkemon</string>
+    <string name="s_i_g_n_u_p">S I G N U P</string>
+    <string name="title_activity_map1">Map</string>
+    <string name="message">Enter a message</string>
+    <string name="sign_in_button">SIGN IN</string>
+</resources>
